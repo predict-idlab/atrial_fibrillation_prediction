@@ -1,0 +1,64 @@
+model,comparison,AF_group,p_value
+1.5,Direct - Internal,all,4.0893103329460415e-06
+1.5,Direct - Internal,AF,5.840737005014599e-05
+1.5,Direct - Internal,NO AF,0.012607648696273193
+1.5,Combo mimic - Internal,all,0.33413116688208633
+1.5,Combo mimic - Internal,AF,0.22783460325544513
+1.5,Combo mimic - Internal,NO AF,0.960857934423664
+1.5,Combo amst - Internal,all,0.9033276960190044
+1.5,Combo amst - Internal,AF,1.0
+1.5,Combo amst - Internal,NO AF,0.7855000626997031
+1.5,Transfer - Internal,all,0.5539477749010824
+1.5,Transfer - Internal,AF,0.26107751339970453
+1.5,Transfer - Internal,NO AF,0.6933629418866176
+1.5,Transfer - Combo mimic,all,0.5443202716420071
+1.5,Transfer - Combo mimic,AF,0.8945299557740088
+1.5,Transfer - Combo mimic,NO AF,0.47041954849254475
+1.5,Transfer - Direct,all,3.5180929375975916e-10
+1.5,Transfer - Direct,AF,5.581359910610018e-06
+1.5,Transfer - Direct,NO AF,7.108981847861062e-06
+1.5,Combo mimic - Direct,all,1.1479112464827077e-08
+1.5,Combo mimic - Direct,AF,9.990637501302093e-06
+1.5,Combo mimic - Direct,NO AF,0.00013475095713553546
+12,Direct - Internal,all,1.3764235158117846e-05
+12,Direct - Internal,AF,0.0005984394056739703
+12,Direct - Internal,NO AF,0.0066329209002244085
+12,Combo mimic - Internal,all,0.4149178646783265
+12,Combo mimic - Internal,AF,0.8503867302284336
+12,Combo mimic - Internal,NO AF,0.3278589727171899
+12,Combo amst - Internal,all,0.316153953726368
+12,Combo amst - Internal,AF,0.5086154681901943
+12,Combo amst - Internal,NO AF,0.44966357215371067
+12,Transfer - Internal,all,0.7105106139804325
+12,Transfer - Internal,AF,0.9580693324584446
+12,Transfer - Internal,NO AF,0.5541738099002362
+12,Transfer - Combo mimic,all,0.48624734979645634
+12,Transfer - Combo mimic,AF,0.7051221517000887
+12,Transfer - Combo mimic,NO AF,0.5442934784715872
+12,Transfer - Direct,all,1.345058308227976e-09
+12,Transfer - Direct,AF,1.1428532963293516e-07
+12,Transfer - Direct,NO AF,0.0011589011505159356
+12,Combo mimic - Direct,all,6.633682160442736e-08
+12,Combo mimic - Direct,AF,7.682578562876675e-07
+12,Combo mimic - Direct,NO AF,0.007519935288752529
+6,Direct - Internal,all,1.340345802696971e-13
+6,Direct - Internal,AF,1.28580922565901e-10
+6,Direct - Internal,NO AF,5.407309112918156e-05
+6,Combo mimic - Internal,all,0.6068950447374992
+6,Combo mimic - Internal,AF,0.28085765671308405
+6,Combo mimic - Internal,NO AF,0.8328813886068727
+6,Combo amst - Internal,all,0.6516184709081869
+6,Combo amst - Internal,AF,0.7268456980066511
+6,Combo amst - Internal,NO AF,0.6599795898660183
+6,Transfer - Internal,all,0.6177046403382471
+6,Transfer - Internal,AF,0.28085765671308405
+6,Transfer - Internal,NO AF,0.815699706419222
+6,Transfer - Combo mimic,all,0.980341548035566
+6,Transfer - Combo mimic,AF,1.0
+6,Transfer - Combo mimic,NO AF,0.9719997418165824
+6,Transfer - Direct,all,1.4294933953415552e-26
+6,Transfer - Direct,AF,8.460365636011403e-17
+6,Transfer - Direct,NO AF,5.4184975505526795e-11
+6,Combo mimic - Direct,all,1.8340783869057022e-26
+6,Combo mimic - Direct,AF,8.460365636011403e-17
+6,Combo mimic - Direct,NO AF,6.764110733095297e-11
