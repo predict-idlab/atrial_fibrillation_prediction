@@ -1,1 +1,3 @@
-# atrial_fibrillation_prediction
+# Atrial Fibrillation Prediction
+The code for the AF paper
+--pending
