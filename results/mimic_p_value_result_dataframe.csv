@@ -41,24 +41,24 @@ model,comparison,AF_group,p_value
 12,Combo mimic - Direct,all,6.633682160442736e-08
 12,Combo mimic - Direct,AF,7.682578562876675e-07
 12,Combo mimic - Direct,NO AF,0.007519935288752529
-6,Direct - Internal,all,1.340345802696971e-13
-6,Direct - Internal,AF,1.28580922565901e-10
-6,Direct - Internal,NO AF,5.407309112918156e-05
-6,Combo mimic - Internal,all,0.6068950447374992
-6,Combo mimic - Internal,AF,0.28085765671308405
-6,Combo mimic - Internal,NO AF,0.8328813886068727
-6,Combo amst - Internal,all,0.6516184709081869
-6,Combo amst - Internal,AF,0.7268456980066511
-6,Combo amst - Internal,NO AF,0.6599795898660183
-6,Transfer - Internal,all,0.6177046403382471
-6,Transfer - Internal,AF,0.28085765671308405
-6,Transfer - Internal,NO AF,0.815699706419222
-6,Transfer - Combo mimic,all,0.980341548035566
+6,Direct - Internal,all,6.743039214615678e-15
+6,Direct - Internal,AF,2.038685962566181e-12
+6,Direct - Internal,NO AF,6.844030857477333e-05
+6,Combo mimic - Internal,all,0.6868859458014362
+6,Combo mimic - Internal,AF,0.20839761204920026
+6,Combo mimic - Internal,NO AF,0.5843173957024526
+6,Combo amst - Internal,all,0.5609533031825815
+6,Combo amst - Internal,AF,0.944812036945718
+6,Combo amst - Internal,NO AF,0.7374791960404381
+6,Transfer - Internal,all,0.7096876333684929
+6,Transfer - Internal,AF,0.20839761204920026
+6,Transfer - Internal,NO AF,0.5543642354701683
+6,Transfer - Combo mimic,all,0.960695027759765
 6,Transfer - Combo mimic,AF,1.0
-6,Transfer - Combo mimic,NO AF,0.9719997418165824
-6,Transfer - Direct,all,1.4294933953415552e-26
-6,Transfer - Direct,AF,8.460365636011403e-17
-6,Transfer - Direct,NO AF,5.4184975505526795e-11
-6,Combo mimic - Direct,all,1.8340783869057022e-26
-6,Combo mimic - Direct,AF,8.460365636011403e-17
-6,Combo mimic - Direct,NO AF,6.764110733095297e-11
+6,Transfer - Combo mimic,NO AF,0.9440339560917276
+6,Transfer - Direct,all,2.1798954189911346e-30
+6,Transfer - Direct,AF,2.5381686779370883e-19
+6,Transfer - Direct,NO AF,2.3578911438720025e-12
+6,Combo mimic - Direct,all,3.7189657011469705e-30
+6,Combo mimic - Direct,AF,2.5381686779370883e-19
+6,Combo mimic - Direct,NO AF,3.78007408399456e-12

@@ -41,24 +41,24 @@ model,comparison,AF_group,p_value
 12,Combo uzgent - Direct,all,0.009996406333529799
 12,Combo uzgent - Direct,AF,0.32116717263729033
 12,Combo uzgent - Direct,NO AF,0.02324290233902735
-6,Direct - Internal,all,0.820025487516355
-6,Direct - Internal,AF,0.7270485597485856
-6,Direct - Internal,NO AF,0.9780778955266103
-6,Combo uzgent - Internal,all,0.4358524084988429
-6,Combo uzgent - Internal,AF,0.0795840834393247
-6,Combo uzgent - Internal,NO AF,0.7743397600985746
-6,Combo amst - Internal,all,0.02627022704665828
-6,Combo amst - Internal,AF,0.4887922807056859
-6,Combo amst - Internal,NO AF,0.05796828287131027
-6,Transfer - Internal,all,0.9300776059617382
-6,Transfer - Internal,AF,0.15895113402884087
-6,Transfer - Internal,NO AF,0.24923011147077367
-6,Transfer - Combo uzgent,all,0.4488873835339048
-6,Transfer - Combo uzgent,AF,0.7653130619721424
-6,Transfer - Combo uzgent,NO AF,0.44628863803634744
+6,Direct - Internal,all,0.6073409183480516
+6,Direct - Internal,AF,0.8901326385798699
+6,Direct - Internal,NO AF,0.5564023560732754
+6,Combo uzgent - Internal,all,0.45306359266430163
+6,Combo uzgent - Internal,AF,0.10104606002871398
+6,Combo uzgent - Internal,NO AF,0.8202693292550145
+6,Combo amst - Internal,all,0.06101105612661109
+6,Combo amst - Internal,AF,0.45270671808269225
+6,Combo amst - Internal,NO AF,0.16676521606090666
+6,Transfer - Internal,all,0.8425651571002901
+6,Transfer - Internal,AF,0.15849863719421364
+6,Transfer - Internal,NO AF,0.44239950557927454
+6,Transfer - Combo uzgent,all,0.6298770759302055
+6,Transfer - Combo uzgent,AF,0.8422569262528314
+6,Transfer - Combo uzgent,NO AF,0.634066817671511
 6,Transfer - Direct,all,0.7830309480468379
-6,Transfer - Direct,AF,0.35079917700200447
-6,Transfer - Direct,NO AF,0.3277937559180485
-6,Combo uzgent - Direct,all,0.6298770759302055
-6,Combo uzgent - Direct,AF,0.2168584290375376
-6,Combo uzgent - Direct,NO AF,0.8217667962744158
+6,Transfer - Direct,AF,0.26422362062995897
+6,Transfer - Direct,NO AF,0.2349320626363649
+6,Combo uzgent - Direct,all,0.8363780913303852
+6,Combo uzgent - Direct,AF,0.18759727862565068
+6,Combo uzgent - Direct,NO AF,0.47341068894315697
